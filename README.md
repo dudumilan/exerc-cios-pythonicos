@@ -1,1 +1,1 @@
-# exerc-cios-pythonicos
+# exercicios-pythonicos
